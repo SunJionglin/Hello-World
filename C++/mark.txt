@@ -1,0 +1,7 @@
+MARK1 
+gcc_exit=1 
+MARK2 
+找不到文件
+MARK3 
+verbose_exit=1 
+MARK4 
